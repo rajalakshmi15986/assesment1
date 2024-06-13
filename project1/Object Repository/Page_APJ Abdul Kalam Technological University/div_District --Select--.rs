@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_District --Select--</name>
+   <tag></tag>
+   <elementGuidId>67bd977f-9558-4a1d-be4f-7309a29e0817</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div[2]/div/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;District --Select--&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e0609553-b0d9-40d6-95f9-dd8105816734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6</value>
+      <webElementGuid>2cc0b364-ef76-4e59-97ec-8a17688993b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> District --Select--</value>
+      <webElementGuid>99334d34-276e-4bea-b073-36f573cdec33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[3]/div[@class=&quot;container-fluid height-vh&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 p-0&quot;]/div[1]/div[@class=&quot;container p-b-15 p-t-15 border- shadow-lg b-r-0 card&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6&quot;]</value>
+      <webElementGuid>138cabc5-8199-4ce3-b6fa-df2ab06eb574</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div[2]/div/div/div/div[3]</value>
+      <webElementGuid>f1134792-0cee-4196-8a86-83385eafb417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Academic Year'])[1]/following::div[2]</value>
+      <webElementGuid>cd2a1e10-198d-4597-8ef9-0acd3530a8ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[3]</value>
+      <webElementGuid>453b5ad0-1db6-4b96-9bc8-0880bf88d124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' District --Select--' or . = ' District --Select--')]</value>
+      <webElementGuid>6a96d646-c94d-4d09-9caf-ade9908e6458</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Norms And Rules</name>
+   <tag></tag>
+   <elementGuidId>2235ae00-377f-46d6-a0fd-5f03cb99f1d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.left-ul > li:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Norms And Rules&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>39a7a6bd-d712-4281-a8d7-be5a09365815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/affiliation/norms-and-rules</value>
+      <webElementGuid>b7375b4d-b8ec-40c6-a048-2571d9e1e96e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item</value>
+      <webElementGuid>a6b387ea-5a7c-474c-b725-a44798ceab05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Norms And Rules</value>
+      <webElementGuid>780030c5-cc5a-4efa-bf32-a056b339a1bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[3]/div[@class=&quot;container-fluid height-vh&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 border-right height-vh&quot;]/ul[@class=&quot;left-ul&quot;]/li[3]/a[1]</value>
+      <webElementGuid>a70cfe15-dc1c-465a-a106-ea48935b480d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>activeclassname</name>
+      <type>Main</type>
+      <value>active</value>
+      <webElementGuid>0a2a515e-047a-47e4-9de3-2db8e06c6cc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div/ul/li[3]/a</value>
+      <webElementGuid>3963c876-8854-4b41-9441-01735639e724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Norms And Rules')])[2]</value>
+      <webElementGuid>e3580a79-4c57-4982-8e32-cf48e4b53142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NBA Accredited Institutions'])[3]/following::a[1]</value>
+      <webElementGuid>54bbfa4c-c6f1-4e26-ab46-88651df9af21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Affiliated Institutions'])[2]/following::a[2]</value>
+      <webElementGuid>3b6d6f17-9548-4f9a-ad59-a1f3bb98684b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification'])[2]/preceding::a[1]</value>
+      <webElementGuid>87c7d464-2ae5-4569-8c77-92d47fe24834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NBA Accredited Institutions'])[4]/preceding::a[2]</value>
+      <webElementGuid>fe789581-38ef-438b-b714-d0f51c8b6e9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/affiliation/norms-and-rules')])[2]</value>
+      <webElementGuid>1828fa6e-185f-4c2f-a0d6-8f2f0d8837b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/ul/li[3]/a</value>
+      <webElementGuid>1f793ae5-f1fb-4052-8b47-027da2ca5172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/affiliation/norms-and-rules' and (text() = 'Norms And Rules' or . = 'Norms And Rules')]</value>
+      <webElementGuid>54cb7e06-d685-4d0b-9a4e-b3ffac60fdc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='basic-navbar-nav']/div/div/div[5]/div/a[5]</value>
+      <webElementGuid>37d754e9-0c2c-4866-a5c1-3d4f1c42cda4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Norms And Rules')]</value>
+      <webElementGuid>240c95ba-817c-4077-bf84-c7d47fc1adaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CGPC'])[1]/following::a[1]</value>
+      <webElementGuid>6a7fc45d-c853-4e26-ba2a-a6d798f46efc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MOOC Courses'])[1]/following::a[2]</value>
+      <webElementGuid>2cf9a3d6-1f8b-42ee-8f61-85923a9e64b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification'])[1]/preceding::a[1]</value>
+      <webElementGuid>08e938d7-df66-4857-888f-b2a1a19293b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jobs/Careers'])[1]/preceding::a[6]</value>
+      <webElementGuid>65080d00-c9b1-4063-8cdb-bf588375acef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Norms And Rules']/parent::*</value>
+      <webElementGuid>42d202a1-952b-4fc1-b321-f7fe48a623da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/academics/norms-and-rules')]</value>
+      <webElementGuid>92ff6fb3-c8b5-4bd1-87aa-c1524fdd6ba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]</value>
+      <webElementGuid>58a6266e-5334-452f-8090-8f167f50849c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/academics/norms-and-rules' and (text() = 'Norms And Rules' or . = 'Norms And Rules')]</value>
+      <webElementGuid>6980ceca-ec61-441d-9505-29e1db682460</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Degree</name>
+   <tag></tag>
+   <elementGuidId>c422181c-c4bb-410a-bfbf-43af94af8bd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[3]/div[2]/div/div[2]/div/div/div/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Degree&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>579e9645-bae8-41bf-a390-a1ad9e234496</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-b-5 font-weight-bold font-14</value>
+      <webElementGuid>c1ae7262-62fc-4aa9-84bf-774b7fcf6742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Degree </value>
+      <webElementGuid>24587123-481a-4a5c-bd76-ae449807c8d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[3]/div[@class=&quot;container-fluid height-vh&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 p-0&quot;]/div[1]/div[@class=&quot;container p-b-15 p-t-15 border- shadow-lg b-r-0 card&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-3 col-lg-3 col-md-6 col-sm-6 col-6&quot;]/label[@class=&quot;m-b-5 font-weight-bold font-14&quot;]</value>
+      <webElementGuid>897fa9ed-b0ac-45ad-bc04-df3428cab047</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[3]/div[2]/div/div[2]/div/div/div/div[2]/label</value>
+      <webElementGuid>612e46d8-be65-466c-85a6-58cc0522143c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Academic Year'])[1]/following::label[1]</value>
+      <webElementGuid>a63e4f98-2744-4777-a039-61fdf82361ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification'])[2]/following::label[2]</value>
+      <webElementGuid>b2294d61-d02b-45f6-b3fc-fbcdf24b53e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Degree']/parent::*</value>
+      <webElementGuid>18fef1f6-46f1-4f7b-93a5-9b52604c8c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>8d86a89e-d5a7-482c-b841-813f3d6337af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Degree ' or . = ' Degree ')]</value>
+      <webElementGuid>2d08ee47-682b-4295-a7fd-83c590f710f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
