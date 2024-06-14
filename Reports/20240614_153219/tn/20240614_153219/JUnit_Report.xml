@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="tn" time="11.447" tests="7" failures="0" errors="0">
+   <testsuite name="tn" tests="7" failures="0" errors="0" time="11.447" skipped="0" timestamp="14-06-2024T15:32:26" hostname="HP - 20.23.0.59" id="Test Suites/tn">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\HP\\Katalon Studio\\rec\\Reports\\20240614_153219\\tn\\20240614_153219"/>
+         <property name="logFiles" value="C:\\Users\\HP\\Katalon Studio\\rec\\Reports\\20240614_153219\\tn\\20240614_153219\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="HP - 20.23.0.59"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+         <property name="browser" value="Chrome 125.0.0.0"/>
+         <property name="hostAddress" value="20.23.0.59"/>
+         <property name="sessionId" value="b3fea0d4cc292e9a44164c9b62ca5157"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/tnpsc/aboutus" time="0.288" classname="Test Cases/tnpsc/aboutus" status="PASSED">
+         <system-out><![CDATA[14-06-2024T15:32:27 - [TEST_CASE][PASSED] - Test Cases/tnpsc/aboutus: Test Cases/tnpsc/aboutus
+
+14-06-2024T15:32:27 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/tnpsc/employment" time="0.02" classname="Test Cases/tnpsc/employment" status="PASSED">
+         <system-out><![CDATA[14-06-2024T15:32:27 - [TEST_CASE][PASSED] - Test Cases/tnpsc/employment: Test Cases/tnpsc/employment
+
+14-06-2024T15:32:27 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/tnpsc/faq" time="10.853" classname="Test Cases/tnpsc/faq" status="PASSED">
+         <system-out><![CDATA[14-06-2024T15:32:27 - [TEST_CASE][PASSED] - Test Cases/tnpsc/faq: Test Cases/tnpsc/faq
+
+14-06-2024T15:32:27 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+14-06-2024T15:32:27 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+14-06-2024T15:32:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+14-06-2024T15:32:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+14-06-2024T15:32:29 - [TEST_STEP][PASSED] - navigateToUrl("https://www.tnpsc.gov.in/English/vision_mission.html"): Navigate to 'https://www.tnpsc.gov.in/English/vision_mission.html' successfully
+
+14-06-2024T15:32:35 - [MESSAGE][PASSED] - Navigate to 'https://www.tnpsc.gov.in/English/vision_mission.html' successfully
+
+14-06-2024T15:32:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/tnpsc/Page_TNPSC - Vision and Mission/h1_Vision and Mission")): Object: 'Object Repository/tnpsc/Page_TNPSC - Vision and Mission/h1_Vision and Mission' is clicked on
+
+14-06-2024T15:32:36 - [MESSAGE][PASSED] - Object: 'Object Repository/tnpsc/Page_TNPSC - Vision and Mission/h1_Vision and Mission' is clicked on
+
+14-06-2024T15:32:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/tnpsc/Page_TNPSC - Vision and Mission/div_VISIONAS MANDATED BY THE CONSTITUTION O_e58a25")): Object: 'Object Repository/tnpsc/Page_TNPSC - Vision and Mission/div_VISIONAS MANDATED BY THE CONSTITUTION O_e58a25' is clicked on
+
+14-06-2024T15:32:36 - [MESSAGE][PASSED] - Object: 'Object Repository/tnpsc/Page_TNPSC - Vision and Mission/div_VISIONAS MANDATED BY THE CONSTITUTION O_e58a25' is clicked on
+
+14-06-2024T15:32:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/tnpsc/Page_TNPSC - Vision and Mission/p_TNPSCS MISSION IS TO")): Object: 'Object Repository/tnpsc/Page_TNPSC - Vision and Mission/p_TNPSCS MISSION IS TO' is clicked on
+
+14-06-2024T15:32:36 - [MESSAGE][PASSED] - Object: 'Object Repository/tnpsc/Page_TNPSC - Vision and Mission/p_TNPSCS MISSION IS TO' is clicked on
+
+14-06-2024T15:32:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/tnpsc/Page_TNPSC - Vision and Mission/ul_HomeAbout usVision and Mission")): Object: 'Object Repository/tnpsc/Page_TNPSC - Vision and Mission/ul_HomeAbout usVision and Mission' is clicked on
+
+14-06-2024T15:32:37 - [MESSAGE][PASSED] - Object: 'Object Repository/tnpsc/Page_TNPSC - Vision and Mission/ul_HomeAbout usVision and Mission' is clicked on
+
+14-06-2024T15:32:37 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+14-06-2024T15:32:38 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/tnpsc/govt users" time="0.017" classname="Test Cases/tnpsc/govt users" status="PASSED">
+         <system-out><![CDATA[14-06-2024T15:32:38 - [TEST_CASE][PASSED] - Test Cases/tnpsc/govt users: Test Cases/tnpsc/govt users
+
+14-06-2024T15:32:38 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/tnpsc/home" time="0.012" classname="Test Cases/tnpsc/home" status="PASSED">
+         <system-out><![CDATA[14-06-2024T15:32:38 - [TEST_CASE][PASSED] - Test Cases/tnpsc/home: Test Cases/tnpsc/home
+
+14-06-2024T15:32:38 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/tnpsc/recruitments" time="0.013" classname="Test Cases/tnpsc/recruitments" status="PASSED">
+         <system-out><![CDATA[14-06-2024T15:32:38 - [TEST_CASE][PASSED] - Test Cases/tnpsc/recruitments: Test Cases/tnpsc/recruitments
+
+14-06-2024T15:32:38 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/tnpsc/rti" time="0.011" classname="Test Cases/tnpsc/rti" status="PASSED">
+         <system-out><![CDATA[14-06-2024T15:32:38 - [TEST_CASE][PASSED] - Test Cases/tnpsc/rti: Test Cases/tnpsc/rti
+
+14-06-2024T15:32:38 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[14-06-2024T15:32:26 - [TEST_SUITE][PASSED] - tn: Test Cases/tnpsc/rti]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
